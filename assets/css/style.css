@@ -98,6 +98,40 @@ h6 {
   color: var(--color-muted);
   max-width: 42rem;
 }
+/*Meet Ally Section styles*/
+
+.section-padding {
+  padding: 80px 0;
+}
+
+.meet-ally {
+  background-color: #ffffff;
+}
+
+.meet-ally h2 {
+  color: #111;
+}
+
+.meet-ally p {
+  color: #444;
+}
+
+/* Strength Cards */
+
+.strength-card {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.strength-card i {
+  color: var(--color-accent);
+}
+
+.strength-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
 
 /*Footer styles*/
 
