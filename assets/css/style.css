@@ -59,7 +59,31 @@ h6 {
 .custom-navbar .nav-link.active {
   color: var(--color-accent);
 }
+main {
+  flex: 1 0 auto;
+}
 
+/* Hero Section Styles */
+
+.hero {
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.62)),
+    url("../images/allef-vinicius-IvQeAVeJULw-unsplash.jpg") center/cover no-repeat;
+  min-height: 80vh;
+  color: var(--color-light);
+}
+
+.hero-kicker {
+  color: var(--color-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.hero-subtitle {
+  color: var(--color-muted);
+  max-width: 42rem;
+}
 
 /* Footer link styles */
 .footer a {
