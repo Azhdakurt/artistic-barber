@@ -138,7 +138,7 @@ h6 {
   background: #ffffff;
   border-radius: 12px;
   overflow: hidden;
-  border: 1px solid rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.10);
 }
 
 .service-item {
@@ -147,7 +147,7 @@ h6 {
   justify-content: space-between;
   gap: 16px;
   padding: 18px 20px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.10);
 }
 
 .service-item-last {
@@ -176,16 +176,25 @@ h6 {
 }
 
 .service-price {
-  background-color: var(--color-dark);
-  color: var(--color-light);
-  padding: 6px 10px;
-  border-radius: 999px;
+  background-color: transparent;
+  color: #111;
+  padding: 0;
+  border-radius: 0;
   font-size: 0.85rem;
-  font-weight: 700;
+  font-weight: 600;
   min-width: 72px;
   text-align: center;
 }
 
+/* Hover effect for better UX */
+.service-item:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+/* Adjust spacing for Services section */
+.services-section {
+  padding-top: 40px;   /* Üst boşluk yarıya indi */
+  padding-bottom: 80px; /* Alt boşluk aynı kaldı */
+}
 /*Footer styles*/
 
 .footer {
@@ -207,6 +216,13 @@ h6 {
   color: var(--color-accent);
   text-decoration: underline;
 }
+/* Accessibility Focus Styles */
+
+.btn-book:focus-visible,
+.nav-link:focus-visible {
+  outline: 3px solid rgba(176, 141, 87, 0.6);
+  outline-offset: 2px;
+}
 
 /*responsive styles */
 
@@ -216,19 +232,33 @@ h6 {
     min-height: 70vh;
   }
 }
-/* Mobile stacking */
+/* Mobile layout for services */
 @media (max-width: 576px) {
   .service-item {
     flex-direction: column;
     align-items: flex-start;
+    padding: 14px 16px;
   }
 
   .service-right {
     width: 100%;
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   .service-price {
-    min-width: 84px;
+    text-align: left;
+    font-size: 0.95rem;
+    min-width: auto;
+  }
+
+  .service-right .btn-book {
+    padding: 8px 14px;
+    font-size: 0.95rem;
   }
 }
+
