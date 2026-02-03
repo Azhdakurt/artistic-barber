@@ -230,7 +230,14 @@ h6 {
   padding-top: 40px;   
   padding-bottom: 80px; 
 }
-
+/* FAQ accordion theme tweaks */
+.accordion-button:not(.collapsed) {
+  background-color: rgba(176, 141, 87, 0.10);
+  color: #111;
+}
+.accordion-button:focus {
+  box-shadow: none;
+}
 /*Footer styles*/
 
 .footer {
