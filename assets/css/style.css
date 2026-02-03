@@ -63,6 +63,20 @@ h6 {
   background-color: #b8923f;
   color: #111;
 }
+/* Secondary gold button (gallery) */
+.btn-book-secondary {
+  background-color: rgba(176, 141, 87, 0.18);
+  color: var(--color-light);
+  font-weight: 600;
+  border-radius: 6px;
+  padding: 8px 18px;
+  border: 1px solid rgba(176, 141, 87, 0.55);
+}
+
+.btn-book-secondary:hover {
+  background-color: rgba(176, 141, 87, 0.28);
+  color: var(--color-light);
+}
 /*Outline accent button*/
 .btn-outline-accent {
   color: var(--color-accent);
