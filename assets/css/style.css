@@ -261,6 +261,11 @@ h6 {
 .accordion-button:focus {
   box-shadow: none;
 }
+/*Adjust spacing for FAQ section */
+.faq{
+  padding-top: 40px;   
+  padding-bottom: 80px; 
+}
 /*Footer styles*/
 
 .footer {
