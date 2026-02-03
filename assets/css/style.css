@@ -63,7 +63,16 @@ h6 {
   background-color: #b8923f;
   color: #111;
 }
+/*Outline accent button*/
+.btn-outline-accent {
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+}
 
+.btn-outline-accent:hover {
+  background-color: var(--color-accent);
+  color: #111;
+}
 /*Navbar styles*/
 
 .custom-navbar {
@@ -192,8 +201,8 @@ h6 {
 }
 /* Adjust spacing for Services section */
 .services-section {
-  padding-top: 40px;   /* Üst boşluk yarıya indi */
-  padding-bottom: 80px; /* Alt boşluk aynı kaldı */
+  padding-top: 40px;  
+  padding-bottom: 80px; 
 }
 /* Gallery Section styles*/
 
