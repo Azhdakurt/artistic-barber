@@ -36,7 +36,6 @@ This project demonstrates my skills in front-end development, responsive design,
      - [Site Owner Stories](#site-owner-stories)
 
 4. [Design](#design)
-   - [Design Choices](#design-choices)
    - [Colour Scheme](#colour-scheme)
    - [Typography](#typography)
    - [Structure](#structure)
