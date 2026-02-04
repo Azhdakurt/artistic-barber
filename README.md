@@ -409,14 +409,6 @@ As a user, I want to see a favicon in the browser tab, so that the website is ea
 
 ---
 
-Typography:
-- Headings: Playfair Display  
-- Body text: Inter (with system font fallbacks)
-
-High-quality imagery and subtle hover effects are used to enhance visual engagement without overwhelming the user.
-
----
-
 ## Design
 
 ### Colour Scheme
