@@ -421,13 +421,27 @@ High-quality imagery and subtle hover effects are used to enhance visual engagem
 
 ### Colour Scheme
 
-- Dark: `#0f0f0f` (navbar and footer)  
-- Light: `#f5f5f5` (text and background accents)  
-- Accent: `#b08d57` (buttons and highlights)
+The colour palette for the **Art.istic Barber – Ally** website was chosen to reflect a modern, refined, and professional barber brand aesthetic while ensuring good readability, contrast, and visual hierarchy.
 
-This palette creates a premium, professional feel while maintaining strong contrast and readability.
+| Colour | Hex Code | Usage |
+|--------|----------|-------|
+| Dark | `#0f0f0f` | Primary background and main brand tone |
+| Surface | `#161616` | Secondary background and content containers |
+| Border | `#2a2a2a` | Dividers, subtle outlines, and separation |
+| Muted | `#cfcfcf` | Secondary text and supporting elements |
+| Light | `#f5f5f5` | Backgrounds and high-contrast areas |
+| Accent (Gold/Bronze) | `#b08d57` | Primary call-to-action buttons and highlights |
 
-Subtle neutral tones were also used for borders and secondary text to improve readability.
+These colours were selected to:
+- Create a clean and minimal visual style  
+- Support strong contrast and accessibility  
+- Maintain a consistent brand identity across all pages  
+
+### Additional Colour Variations  
+
+Slight variations of the main palette were used for improved readability and interaction states, including:
+- A slightly darker text colour (`#111`) for enhanced contrast and legibility.  
+- A darker shade of the accent colour (`#b8923f`) used for button hover states to provide clear visual feedback to users.
 
 ---
 
