@@ -486,7 +486,7 @@ The website consists of the following pages:
 ### Tools & Platforms  
 - **Git** – Version control for tracking changes in the project.  
 - **GitHub** – Used to store the repository and deploy the site via GitHub Pages.  
-- **Gitpod / VS Code** – Code editor and development environment.  
+- **VS Code** – Code editor and development environment.  
 - **Google Fonts** – Used to import and implement custom typography (Playfair Display and Inter).  
 - **Font Awesome** – Used for icons in navigation, buttons, and social links.  
 - **Favicon.io** – Used to generate the website favicon.  
