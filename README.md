@@ -185,6 +185,12 @@ The visual design follows a minimal, modern aesthetic with a dark navbar and foo
 
 ## User Stories
 
+User stories were planned and tracked using a Kanban-style board (Todo → In Progress → Done) to ensure a structured, user-centred development process.
+
+Below is an overview of the completed Must-Have user stories:
+
+![User Stories Kanban Board](assets/images/user-stories-board.png)
+
 ### First-Time Visitor Stories
 
 #### 1) Responsive Navigation & User-Friendly Design (Must-have)
