@@ -418,6 +418,8 @@ High-quality imagery and subtle hover effects are used to enhance visual engagem
 
 This palette creates a premium, professional feel while maintaining strong contrast and readability.
 
+Subtle neutral tones were also used for borders and secondary text to improve readability.
+
 ---
 
 ### Typography
@@ -522,7 +524,7 @@ The website consists of the following pages:
 | Bug | Fix |
 |-----|-----|
 | Gallery images appeared distorted | Used `object-fit: cover` and consistent aspect ratio |
-| Navbar active state not updating | Implemented manual/JS-based active state logic |
+| Navbar active state not updating | Assigned the `active` class manually on each page’s corresponding navigation link |
 | Favicon not showing on GitHub Pages | Corrected file paths by removing leading `/` |
 
 ---
