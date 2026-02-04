@@ -47,7 +47,7 @@ This project demonstrates my skills in front-end development, responsive design,
 
 5. [Technologies Used](#technologies-used)
    - [Languages](#languages)
-   - [Frameworks & Tools](#frameworks--tools)
+   - [Frameworks & Libraries](#frameworks--libraries)
 
 6. [Features](#features)
    - [Navbar](#navbar)
@@ -190,6 +190,8 @@ User stories were planned and tracked using a Kanban-style board (Todo → In Pr
 Below is an overview of the completed Must-Have user stories:
 
 ![User Stories Kanban Board](assets/images/user-stories-board.png)
+
+---
 
 ### First-Time Visitor Stories
 
@@ -472,20 +474,27 @@ The website consists of the following pages:
 
 ---
 
-## Technologies Used
+## Technologies Used 
 
-### Languages
-- HTML5  
-- CSS3  
+### Languages  
+- **HTML5** – Used to structure the content and layout of the website.  
+- **CSS3** – Used for styling, layout customisation, and visual design.  
 
-### Frameworks & Tools
-- Bootstrap 5  
-- Git  
-- GitHub  
-- VS Code  
-- Google Fonts  
-- Font Awesome  
-- Favicon Generator  
+### Frameworks & Libraries  
+- **Bootstrap 5** – Used for the responsive grid system, layout structure, and UI components such as the navbar, buttons, spacing, and utilities.  
+
+### Tools & Platforms  
+- **Git** – Version control for tracking changes in the project.  
+- **GitHub** – Used to store the repository and deploy the site via GitHub Pages.  
+- **Gitpod / VS Code** – Code editor and development environment.  
+- **Google Fonts** – Used to import and implement custom typography (Playfair Display and Inter).  
+- **Font Awesome** – Used for icons in navigation, buttons, and social links.  
+- **Favicon.io** – Used to generate the website favicon.  
+- **Balsamiq** – Used to create wireframes and plan the user interface.  
+- **TinyPNG / Squoosh** – Used to optimise images for performance.  
+- **Google Chrome DevTools (Lighthouse)** – Used for performance, accessibility, and best practice testing.  
+- **W3C HTML Validator** – Used to validate HTML code.  
+- **W3C CSS Validator (Jigsaw)** – Used to validate CSS code.   
 
 ---
 
