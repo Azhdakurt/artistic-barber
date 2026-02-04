@@ -1,5 +1,4 @@
-# artistic-barber
-# Artistic Barber – Ally
+# Artistic Barber
 
 
 
