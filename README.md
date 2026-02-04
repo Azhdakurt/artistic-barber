@@ -421,7 +421,7 @@ High-quality imagery and subtle hover effects are used to enhance visual engagem
 
 ### Colour Scheme
 
-The colour palette for the **Art.istic Barber – Ally** website was chosen to reflect a modern, refined, and professional barber brand aesthetic while ensuring good readability, contrast, and visual hierarchy.
+The colour palette for the **Artistic Barber** website was chosen to reflect a modern, refined, and professional barber brand aesthetic while ensuring good readability, contrast, and visual hierarchy.
 
 | Colour | Hex Code | Usage |
 |--------|----------|-------|
@@ -445,10 +445,20 @@ Slight variations of the main palette were used for improved readability and int
 
 ---
 
-### Typography
+### Typography 
 
-- **Headings:** Playfair Display  
-- **Body:** Inter (with system font fallbacks for accessibility and performance)
+The typography for the **Artistic Barber** website was chosen to balance readability, accessibility, and a refined, professional aesthetic that suits a premium barber brand.
+
+| Font | Source | Usage |
+|------|--------|-------|
+| Playfair Display | Google Fonts | Headings (H1–H6) |
+| Inter | Google Fonts | Body text and general content |
+| System sans-serif | System default | Fallback for accessibility and performance |
+
+These fonts were chosen to:
+- Create a clear visual hierarchy between headings and body text  
+- Enhance readability across different devices and screen sizes  
+- Support a modern yet refined brand identity
 
 ---
 
