@@ -25,8 +25,11 @@ This project demonstrates my skills in front-end development, responsive design,
    - [Site Owner Goals](#site-owner-goals)
 
 3. [User Experience (UX)](#user-experience-ux)
-   - [Target Audience](#target-audience)
-   - [User Requirements and Expectations](#user-requirements-and-expectations)
+    - [Strategy Plane](#strategy-plane)
+    - [Scope Plane](#scope-plane)
+    - [Structure Plane](#structure-plane)
+    - [Skeleton Plane](#skeleton-plane)
+    - [Surface Plane](#surface-plane)
    - [User Stories](#user-stories)
      - [First-Time Visitor Stories](#first-time-visitor-stories)
      - [Returning Visitor Stories](#returning-visitor-stories)
@@ -111,6 +114,69 @@ As the site owner, the goals of the website are to:
 - Showcase Ally’s skills and experience through a visual gallery.  
 - Reduce repetitive questions by providing clear information in the FAQ section.  
 - Ensure that users can always return to the homepage easily via a custom 404 page.
+
+---
+
+## User Experience (UX)
+
+### Strategy Plane
+
+The primary goal of the website is to present Artistic Barber as a professional, modern, and trustworthy brand while making it easy for users to view services, pricing, and book appointments. The target audience includes current and potential clients who value quality grooming services and a smooth digital experience.
+
+The website aligns with user needs by providing clear navigation, transparent pricing, visual examples of work, and quick access to booking and contact information.
+
+---
+
+### Scope Plane
+
+The website includes the following core features:
+
+**Must-have features:**
+- A clear homepage introducing Artistic Barber and Ally  
+- Services page with transparent pricing  
+- External booking via Booksy  
+- Responsive design for all devices  
+- Contact details and opening hours in the footer   
+
+**Should-have features:**
+- Gallery showcasing recent work  
+- FAQ section addressing common questions  
+
+**Could-have features:**
+- Custom 404 page 
+
+**Future improvements:**
+- Contact form for general inquiries  
+- Lightbox image preview in the gallery  
+- Online chat or booking integration within the site  
+
+---
+
+### Structure Plane
+
+The website is structured as follows:
+
+- **Home:** Introduction to Artistic Barber and Ally  
+- **Services:** List of services with pricing and booking links  
+- **Gallery:** Visual showcase of previous work  
+- **FAQ:** Answers to common customer questions  
+- **404:** Custom error page with clear navigation back to the homepage  
+
+Navigation is consistent across all pages via a fixed navbar and footer.
+
+---
+
+### Skeleton Plane
+
+The layout is clean and structured using Bootstrap’s grid system. Key elements such as the navbar, hero section, service list, and footer are placed consistently across pages.
+
+The design prioritizes readability, clear hierarchy, and ease of navigation on both mobile and desktop devices.
+
+---
+
+### Surface Plane
+
+The visual design follows a minimal, modern aesthetic with a dark navbar and footer, complemented by an accent gold color for primary buttons.
 
 ---
 
@@ -339,65 +405,6 @@ As a user, I want to see a favicon in the browser tab, so that the website is ea
 - Test favicon display in different browsers.  
 
 ---
-
-## User Experience (UX)
-
-### Strategy Plane
-
-The primary goal of the website is to present Artistic Barber as a professional, modern, and trustworthy brand while making it easy for users to view services, pricing, and book appointments. The target audience includes current and potential clients who value quality grooming services and a smooth digital experience.
-
-The website aligns with user needs by providing clear navigation, transparent pricing, visual examples of work, and quick access to booking and contact information.
-
----
-
-### Scope Plane
-
-The website includes the following core features:
-
-**Must-have features:**
-- A clear homepage introducing Artistic Barber and Ally  
-- Services page with transparent pricing  
-- External booking via Booksy  
-- Responsive design for all devices  
-- Contact details and opening hours in the footer  
-- Custom 404 page  
-
-**Should-have features:**
-- Gallery showcasing recent work  
-- FAQ section addressing common questions  
-
-**Could-have features (future improvements):**
-- Contact form for general inquiries  
-- Lightbox image preview in the gallery  
-- Online chat or booking integration within the site  
-
----
-
-### Structure Plane
-
-The website is structured as follows:
-
-- **Home:** Introduction to Artistic Barber and Ally  
-- **Services:** List of services with pricing and booking links  
-- **Gallery:** Visual showcase of previous work  
-- **FAQ:** Answers to common customer questions  
-- **404:** Custom error page with clear navigation back to the homepage  
-
-Navigation is consistent across all pages via a fixed navbar and footer.
-
----
-
-### Skeleton Plane
-
-The layout is clean and structured using Bootstrap’s grid system. Key elements such as the navbar, hero section, service list, and footer are placed consistently across pages.
-
-The design prioritizes readability, clear hierarchy, and ease of navigation on both mobile and desktop devices.
-
----
-
-### Surface Plane
-
-The visual design follows a minimal, modern aesthetic with a dark navbar and footer, complemented by an accent gold color for primary buttons.
 
 Typography:
 - Headings: Playfair Display  
