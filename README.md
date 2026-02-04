@@ -16,6 +16,10 @@ This project demonstrates my skills in front-end development, responsive design,
 
 ---
 
+![Responsive mockup of Art.istic Barber – Ally website](assets/images/mockup.png)
+
+---
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
