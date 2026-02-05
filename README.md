@@ -49,7 +49,14 @@ This project demonstrates my skills in front-end development, responsive design,
    - [Languages](#languages)
    - [Frameworks & Libraries](#frameworks--libraries)
 
-6. [Features](#features)
+6. [Wireframes](#wireframes)
+   - [Home Page](#home-page)
+   - [Services Page](#services-page)
+   - [Gallery Page](#gallery-page)
+   - [FAQ Page](#faq-page)
+   - [404](#404 page)
+
+7. [Features](#features)
    - [Navbar](#navbar)
    - [Hero Section (Home)](#hero-section-home)
    - [Services Page](#services-page)
@@ -58,7 +65,7 @@ This project demonstrates my skills in front-end development, responsive design,
    - [Footer](#footer)
    - [404 Page](#404-page)
 
-7. [Testing](#testing)
+8. [Testing](#testing)
    - [HTML Validation](#html-validation)
    - [CSS Validation](#css-validation)
    - [Accessibility](#accessibility)
@@ -66,15 +73,15 @@ This project demonstrates my skills in front-end development, responsive design,
    - [Device Testing](#device-testing)
    - [Browser Compatibility](#browser-compatibility)
 
-8. [Bugs & Fixes](#bugs--fixes)
+9. [Bugs & Fixes](#bugs--fixes)
 
-9. [Deployment](#deployment)
+10. [Deployment](#deployment)
 
-10. [Credits](#credits)
+11. [Credits](#credits)
     - [Images](#images)
     - [Tools & Resources](#tools--resources)
 
-11. [Acknowledgements](#acknowledgements)
+12. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -496,6 +503,17 @@ The website consists of the following pages:
 - **W3C HTML Validator** – Used to validate HTML code.  
 - **W3C CSS Validator (Jigsaw)** – Used to validate CSS code.
 - **ChatGPT** – Help with code logic, explanations.   
+
+---
+
+## Wireframes
+### Home page
+![Home Page Wireframe – Desktop, Tablet, Mobile](assets/images.homepage-wireframes.png)
+
+### Services page
+### Gallery page
+### FAQ page
+### 404
 
 ---
 
