@@ -640,6 +640,24 @@ Lighthouse was used to evaluate performance, accessibility, best practices, and 
 #### 404 Page
 ![Lighthouse Report – 404](./assets/images/lighthouse-error.webp)
 
+### User Story Testing
+
+| User Story | Feature Tested | Action Taken | Expected Result | Actual Result |
+|------------|----------------|--------------|-----------------|----------------|
+| As a First-Time Visitor, I need easy navigation and a responsive layout | Responsive Navbar | Viewed site on mobile, tablet, and desktop | Navbar adapts with hamburger menu on smaller screens and all links work | Works as expected |
+| As a user, I want to clearly see how to book an appointment | Book Now CTA | Clicked “Book Now” from navbar and key sections | Redirected to Booksy in a new tab | Works as expected |
+| As a user, I want to view an overview of services | Services Page | Navigated to Services page | Services clearly listed with Booksy note and CTA | Works as expected |
+| As a user, I want to know where pricing and availability are maintained | Booksy Information | Read Services and FAQ sections | Clear message that pricing/availability is handled on Booksy | Works as expected |
+| As a user, I want to read about Ally’s background | Meet Ally Section | Viewed homepage | Background and highlights are clear and readable on all devices | Works as expected |
+| As a user, I want to see examples of Ally’s work | Gallery Page | Browsed gallery images | Optimised images load correctly with alt text | Works as expected |
+| As a user, I want to quickly find Ally’s location | Location Info | Checked homepage teaser and footer | “Based in Chatham” visible and consistent | Works as expected |
+| As a user, I want to access contact details from any page | Footer | Checked footer across all pages | WhatsApp, email and Instagram links visible | Works as expected |
+| As a user, I want to view opening days and hours | Opening Hours in Footer | Viewed footer on mobile and desktop | Hours are readable with Booksy availability note | Works as expected |
+| As a user, I want to read frequently asked questions | FAQ Page | Opened and interacted with FAQ accordion | Questions expand/collapse and reference Booksy where relevant | Works as expected |
+| As a user, I want a clear 404 recovery page | 404 Page | Visited a non-existent URL | Helpful message with button back to homepage | Works as expected |
+| As a user, I want consistent, readable typography | Custom Fonts | Viewed text across pages | Google Fonts load correctly with fallbacks | Works as expected |
+| As a user, I want to see a favicon in the browser tab | Favicon | Viewed site in multiple tabs | Favicon displays correctly | Works as expected |
+
 ### Browser Compatibility
 - Tested on:
   - Google Chrome  
