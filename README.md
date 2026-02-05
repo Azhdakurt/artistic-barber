@@ -625,19 +625,19 @@ The WAVE Web Accessibility Evaluation Tool was used to evaluate accessibility ac
 
 Lighthouse was used to evaluate performance, accessibility, best practices, and SEO across all pages.
 
-### Homepage
+#### Homepage
 ![Lighthouse Report – Homepage](./assets/images/lighthouse-home.webp)
 
-### Services Page
+#### Services Page
 ![Lighthouse Report – Services](./assets/images/lighthouse-services.webp)
 
-### Gallery Page
+#### Gallery Page
 ![Lighthouse Report – Gallery](./assets/images/lighthouse-gallery.webp)
 
-### FAQ Page
+#### FAQ Page
 ![Lighthouse Report – FAQ](./assets/images/lighthouse-faq.webp)
 
-### 404 Page
+#### 404 Page
 ![Lighthouse Report – 404](./assets/images/lighthouse-error.webp)
 
 ### Browser Compatibility
