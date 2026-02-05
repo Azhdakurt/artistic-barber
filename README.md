@@ -508,7 +508,8 @@ The website consists of the following pages:
 
 ## Wireframes
 ### Home page
-![Home Page](./assets/images/homepage-wireframes.png)
+
+![Home Page Wireframes – Desktop, Tablet, Mobile](assets/images/homepage-wireframes.png)
 
 ### Services page
 ### Gallery page
