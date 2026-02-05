@@ -622,7 +622,25 @@ The WAVE Web Accessibility Evaluation Tool was used to evaluate accessibility ac
 - WAVE flagged **one minor contrast warning**, which was intentionally left unchanged to preserve the site's visual branding and aesthetic consistency.
 
 ### Performance
-- Tested using Google Lighthouse in Chrome DevTools.
+
+## Lighthouse Performance & Quality Report
+
+Lighthouse was used to evaluate performance, accessibility, best practices, and SEO across all pages.
+
+### Homepage
+![Lighthouse Report – Homepage](./assets/images/lighthouse-home.webp)
+
+### Services Page
+![Lighthouse Report – Services](./assets/images/lighthouse-services.webp)
+
+### Gallery Page
+![Lighthouse Report – Gallery](./assets/images/lighthouse-gallery.webp)
+
+### FAQ Page
+![Lighthouse Report – FAQ](./assets/images/lighthouse-faq.webp)
+
+### 404 Page
+![Lighthouse Report – 404](./assets/images/lighthouse-error.webp)
 
 ### Browser Compatibility
 - Tested on:
