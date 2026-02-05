@@ -494,7 +494,8 @@ The website consists of the following pages:
 - **TinyPNG / Squoosh** – Used to optimise images for performance.  
 - **Google Chrome DevTools (Lighthouse)** – Used for performance, accessibility, and best practice testing.  
 - **W3C HTML Validator** – Used to validate HTML code.  
-- **W3C CSS Validator (Jigsaw)** – Used to validate CSS code.   
+- **W3C CSS Validator (Jigsaw)** – Used to validate CSS code.
+- **ChatGPT** – Help with code logic, explanations.   
 
 ---
 
