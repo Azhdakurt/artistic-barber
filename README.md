@@ -525,6 +525,8 @@ The website consists of the following pages:
 
 ### 404
 
+![Error Wireframes – Desktop, Tablet, Mobile](assets/images/error-wireframes.webp)
+
 ---
 
 ## Features
