@@ -512,6 +512,9 @@ The website consists of the following pages:
 ![Home Page Wireframes – Desktop, Tablet, Mobile](assets/images/homepage-wireframes.webp)
 
 ### Services page
+
+![Services Wireframes – Desktop, Tablet, Mobile](assets/images/services-wireframes.webp)
+
 ### Gallery page
 ### FAQ page
 ### 404
