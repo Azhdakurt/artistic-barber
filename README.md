@@ -54,7 +54,7 @@ This project demonstrates my skills in front-end development, responsive design,
    - [Services Page](#services-page)
    - [Gallery Page](#gallery-page)
    - [FAQ Page](#faq-page)
-   - [404](#404 page)
+   - [404 Page](#404-page)
 
 7. [Features](#features)
    - [Navbar](#navbar)
@@ -508,7 +508,7 @@ The website consists of the following pages:
 
 ## Wireframes
 ### Home page
-![Home Page Wireframe – Desktop, Tablet, Mobile](assets/images.homepage-wireframes.png)
+![Home Page Wireframes – Desktop, Tablet, Mobile](assets/images/homepage-wireframes.png)
 
 ### Services page
 ### Gallery page
