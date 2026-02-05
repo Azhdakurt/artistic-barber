@@ -707,6 +707,12 @@ Live site: https://azhdakurt.github.io/artistic-barber/
 
 - Code Institute course materials  
 - Online tutorials and documentation  
-- Support and feedback from peers and mentors  
+- Support from peers 
+- *CSS: The Definitive Guide* by Eric A. Meyer & Estelle Weyl  
+- *Learning Web Design* by Jennifer Niederst Robbins  
+- Broad Walk Games walkthrough project for reference and inspiration  
+
+Special thanks to Ally for allowing this website to be built around his brand and work.
+
 
 ---
