@@ -503,6 +503,7 @@ The website consists of the following pages:
 - **W3C HTML Validator** – Used to validate HTML code.  
 - **W3C CSS Validator (Jigsaw)** – Used to validate CSS code.
 - **ChatGPT** – Help with code logic, explanations.   
+- **WAVE (WebAIM)** – Used to evaluate and improve web accessibility.
 
 ---
 
