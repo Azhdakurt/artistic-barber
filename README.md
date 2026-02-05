@@ -590,7 +590,13 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 ![HTML Validation - 404](./assets/images/html-validation-404.webp)
 
 ### CSS Validation
-- CSS validated using W3C Jigsaw CSS Validation Service.
+
+The W3C Jigsaw CSS Validator was used to validate the project's stylesheet.
+
+- assets/css/style.css – **Valid CSS**
+- 3 warnings were reported relating to the use of CSS variables, which is expected due to their dynamic nature and does not affect the functionality of the site.
+
+![CSS Validation](./assets/images/css-validation.webp)
 
 ### Accessibility
 - Tested using WAVE WebAIM tool — no critical issues found.
