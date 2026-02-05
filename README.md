@@ -621,9 +621,7 @@ The WAVE Web Accessibility Evaluation Tool was used to evaluate accessibility ac
 - No critical accessibility errors were detected.
 - WAVE flagged **one minor contrast warning**, which was intentionally left unchanged to preserve the site's visual branding and aesthetic consistency.
 
-### Performance
-
-## Lighthouse Performance & Quality Report
+### Lighthouse Performance & Quality Report
 
 Lighthouse was used to evaluate performance, accessibility, best practices, and SEO across all pages.
 
