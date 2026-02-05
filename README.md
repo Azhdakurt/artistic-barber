@@ -520,6 +520,9 @@ The website consists of the following pages:
 ![Gallery Wireframes – Desktop, Tablet, Mobile](assets/images/gallery-wireframes.webp)
 
 ### FAQ page
+
+![FAQ Wireframes – Desktop, Tablet, Mobile](assets/images/faq-wireframes.webp)
+
 ### 404
 
 ---
