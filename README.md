@@ -571,7 +571,23 @@ The website consists of the following pages:
 ## Testing
 
 ### HTML Validation
-- All pages validated using W3C Markup Validation Service.
+
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors or warnings.
+
+#### Home
+![HTML Validation - Home](./assets/images/html-validation-index.webp)
+
+#### Services
+![HTML Validation - Services](./assets/images/html-validation-services.webp)
+
+#### Gallery
+![HTML Validation - Gallery](./assets/images/html-validation-gallery.webp)
+
+#### FAQ
+![HTML Validation - FAQ](./assets/images/html-validation-faq.webp)
+
+#### 404
+![HTML Validation - 404](./assets/images/html-validation-404.webp)
 
 ### CSS Validation
 - CSS validated using W3C Jigsaw CSS Validation Service.
