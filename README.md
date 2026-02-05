@@ -599,7 +599,27 @@ The W3C Jigsaw CSS Validator was used to validate the project's stylesheet.
 ![CSS Validation](./assets/images/css-validation.webp)
 
 ### Accessibility
-- Tested using WAVE WebAIM tool — no critical issues found.
+
+The WAVE Web Accessibility Evaluation Tool was used to evaluate accessibility across all pages of the website.
+
+#### Homepage
+![WAVE Accessibility Report – Homepage](./assets/images/wave-home.webp)
+
+#### Services Page
+![WAVE Accessibility Report – Services](./assets/images/wave-services.webp)
+
+#### Gallery Page
+![WAVE Accessibility Report – Gallery](./assets/images/wave-gallery.webp)
+
+#### FAQ Page
+![WAVE Accessibility Report – FAQ](./assets/images/wave-faq.webp)
+
+#### 404 Page
+![WAVE Accessibility Report – 404](./assets/images/wave-error.webp)
+
+### Notes
+- No critical accessibility errors were detected.
+- WAVE flagged **one minor contrast warning**, which was intentionally left unchanged to preserve the site's visual branding and aesthetic consistency.
 
 ### Performance
 - Tested using Google Lighthouse in Chrome DevTools.
